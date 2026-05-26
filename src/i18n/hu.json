@@ -1,0 +1,23 @@
+{
+	"Go to homepage": "Ugrás a kezdőlapra",
+	"Switch to dark mode": "Váltás sötét módra",
+	"Switch to light mode": "Váltás világos módra",
+	"Open language menu": "Nyelvi menü megnyitása",
+	"Switch language to": "Nyelv váltása erre",
+	"Bootstrap, company, language": "Bootstrap, cég, nyelv",
+	"Company profile is ready for bootstrap data.": "A cégprofil készen áll a bootstrap adatokra.",
+	"This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.": "Ez a starter most csak az alapvető runtime részeket tartalmazza: alkalmazás-bootstrap, cégállapot és nyelvváltás. A többi demófunkció el lett távolítva.",
+	"SSR-safe bootstrap": "SSR-biztos bootstrap",
+	"Company signal state": "Cégállapot signals használatával",
+	"Language switching": "Nyelvváltás",
+	"Company bootstrap state": "Cég bootstrap állapota",
+	"Company name": "Cégnév",
+	"Using environment fallback": "Environment fallback használata",
+	"Company description is available from bootstrap state.": "A cég leírása elérhető a bootstrap állapotból.",
+	"About company": "A cégről",
+	"Pages": "Oldalak",
+	"Pages footer navigation": "Oldalnavigáció a láblécben",
+	"Landing": "Kezdőlap",
+	"All rights reserved.": "Minden jog fenntartva.",
+	"Company image": "Cég képe"
+}

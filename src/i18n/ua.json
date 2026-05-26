@@ -1,0 +1,23 @@
+{
+	"Go to homepage": "Перейти на головну сторінку",
+	"Switch to dark mode": "Увімкнути темний режим",
+	"Switch to light mode": "Увімкнути світлий режим",
+	"Open language menu": "Відкрити меню мов",
+	"Switch language to": "Перемкнути мову на",
+	"Bootstrap, company, language": "Bootstrap, компанія, мова",
+	"Company profile is ready for bootstrap data.": "Профіль компанії готовий до bootstrap-даних.",
+	"This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.": "Цей стартер тепер містить лише основні runtime-частини: bootstrap застосунку, стан компанії та перемикання мов. Решту демонстраційних функцій видалено.",
+	"SSR-safe bootstrap": "SSR-сумісний bootstrap",
+	"Company signal state": "Стан компанії на signals",
+	"Language switching": "Перемикання мов",
+	"Company bootstrap state": "Bootstrap-стан компанії",
+	"Company name": "Назва компанії",
+	"Using environment fallback": "Використовується fallback з environment",
+	"Company description is available from bootstrap state.": "Опис компанії доступний зі bootstrap-стану.",
+	"About company": "Про компанію",
+	"Pages": "Сторінки",
+	"Pages footer navigation": "Навігація сторінками у футері",
+	"Landing": "Головна",
+	"All rights reserved.": "Усі права захищено.",
+	"Company image": "Зображення компанії"
+}

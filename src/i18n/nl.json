@@ -1,0 +1,23 @@
+{
+	"Go to homepage": "Ga naar de homepage",
+	"Switch to dark mode": "Schakel naar donkere modus",
+	"Switch to light mode": "Schakel naar lichte modus",
+	"Open language menu": "Taalmenu openen",
+	"Switch language to": "Taal wijzigen naar",
+	"Bootstrap, company, language": "Bootstrap, bedrijf, taal",
+	"Company profile is ready for bootstrap data.": "Het bedrijfsprofiel is klaar voor bootstrapgegevens.",
+	"This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.": "Deze starter bevat nu alleen de kernonderdelen voor runtime: app-bootstrap, bedrijfsstatus en meertalige wisseling. De rest van de demofunctionaliteit is verwijderd.",
+	"SSR-safe bootstrap": "SSR-veilige bootstrap",
+	"Company signal state": "Bedrijfsstatus met signals",
+	"Language switching": "Taal wisselen",
+	"Company bootstrap state": "Bootstrapstatus van het bedrijf",
+	"Company name": "Bedrijfsnaam",
+	"Using environment fallback": "Environment-fallback wordt gebruikt",
+	"Company description is available from bootstrap state.": "De bedrijfsbeschrijving is beschikbaar vanuit de bootstrapstatus.",
+	"About company": "Over het bedrijf",
+	"Pages": "Pagina's",
+	"Pages footer navigation": "Paginanavigatie in de footer",
+	"Landing": "Startpagina",
+	"All rights reserved.": "Alle rechten voorbehouden.",
+	"Company image": "Bedrijfsafbeelding"
+}
