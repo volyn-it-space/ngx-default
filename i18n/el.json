@@ -1,0 +1,23 @@
+{
+	"Go to homepage": "Μετάβαση στην αρχική σελίδα",
+	"Switch to dark mode": "Μετάβαση σε σκοτεινή λειτουργία",
+	"Switch to light mode": "Μετάβαση σε φωτεινή λειτουργία",
+	"Open language menu": "Άνοιγμα μενού γλωσσών",
+	"Switch language to": "Αλλαγή γλώσσας σε",
+	"Bootstrap, company, language": "Bootstrap, εταιρεία, γλώσσα",
+	"Company profile is ready for bootstrap data.": "Το προφίλ της εταιρείας είναι έτοιμο για δεδομένα bootstrap.",
+	"This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.": "Αυτό το starter διατηρεί πλέον μόνο τα βασικά runtime μέρη: bootstrap εφαρμογής, κατάσταση εταιρείας και αλλαγή γλώσσας. Οι υπόλοιπες demo λειτουργίες έχουν αφαιρεθεί.",
+	"SSR-safe bootstrap": "Bootstrap ασφαλές για SSR",
+	"Company signal state": "Κατάσταση εταιρείας με signals",
+	"Language switching": "Αλλαγή γλώσσας",
+	"Company bootstrap state": "Κατάσταση bootstrap εταιρείας",
+	"Company name": "Όνομα εταιρείας",
+	"Using environment fallback": "Χρήση fallback από το environment",
+	"Company description is available from bootstrap state.": "Η περιγραφή της εταιρείας είναι διαθέσιμη από την κατάσταση bootstrap.",
+	"About company": "Σχετικά με την εταιρεία",
+	"Pages": "Σελίδες",
+	"Pages footer navigation": "Πλοήγηση σελίδων στο υποσέλιδο",
+	"Landing": "Αρχική",
+	"All rights reserved.": "Με επιφύλαξη παντός δικαιώματος.",
+	"Company image": "Εικόνα εταιρείας"
+}

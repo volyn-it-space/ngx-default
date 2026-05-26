@@ -1,0 +1,23 @@
+{
+	"Go to homepage": "Go to homepage",
+	"Switch to dark mode": "Switch to dark mode",
+	"Switch to light mode": "Switch to light mode",
+	"Open language menu": "Open language menu",
+	"Switch language to": "Switch language to",
+	"Bootstrap, company, language": "Bootstrap, company, language",
+	"Company profile is ready for bootstrap data.": "Company profile is ready for bootstrap data.",
+	"This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.": "This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.",
+	"SSR-safe bootstrap": "SSR-safe bootstrap",
+	"Company signal state": "Company signal state",
+	"Language switching": "Language switching",
+	"Company bootstrap state": "Company bootstrap state",
+	"Company name": "Company name",
+	"Using environment fallback": "Using environment fallback",
+	"Company description is available from bootstrap state.": "Company description is available from bootstrap state.",
+	"About company": "About company",
+	"Pages": "Pages",
+	"Pages footer navigation": "Pages footer navigation",
+	"Landing": "Landing",
+	"All rights reserved.": "All rights reserved.",
+	"Company image": "Company image"
+}

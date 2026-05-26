@@ -1,0 +1,23 @@
+{
+	"Go to homepage": "Mergi la pagina principală",
+	"Switch to dark mode": "Comută la modul întunecat",
+	"Switch to light mode": "Comută la modul luminos",
+	"Open language menu": "Deschide meniul de limbi",
+	"Switch language to": "Schimbă limba în",
+	"Bootstrap, company, language": "Bootstrap, companie, limbă",
+	"Company profile is ready for bootstrap data.": "Profilul companiei este pregătit pentru datele bootstrap.",
+	"This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.": "Acest starter păstrează acum doar componentele runtime esențiale: bootstrap-ul aplicației, starea companiei și schimbarea limbii. Restul funcționalităților demo au fost eliminate.",
+	"SSR-safe bootstrap": "Bootstrap compatibil cu SSR",
+	"Company signal state": "Starea companiei cu signals",
+	"Language switching": "Schimbarea limbii",
+	"Company bootstrap state": "Starea bootstrap a companiei",
+	"Company name": "Numele companiei",
+	"Using environment fallback": "Se folosește fallback-ul din environment",
+	"Company description is available from bootstrap state.": "Descrierea companiei este disponibilă din starea bootstrap.",
+	"About company": "Despre companie",
+	"Pages": "Pagini",
+	"Pages footer navigation": "Navigarea paginilor din subsol",
+	"Landing": "Prima pagină",
+	"All rights reserved.": "Toate drepturile rezervate.",
+	"Company image": "Imaginea companiei"
+}

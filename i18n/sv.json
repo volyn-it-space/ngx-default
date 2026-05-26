@@ -1,0 +1,23 @@
+{
+	"Go to homepage": "Gå till startsidan",
+	"Switch to dark mode": "Byt till mörkt läge",
+	"Switch to light mode": "Byt till ljust läge",
+	"Open language menu": "Öppna språkmenyn",
+	"Switch language to": "Byt språk till",
+	"Bootstrap, company, language": "Bootstrap, företag, språk",
+	"Company profile is ready for bootstrap data.": "Företagsprofilen är redo för bootstrap-data.",
+	"This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.": "Den här startern innehåller nu bara de viktigaste runtime-delarna: app-bootstrap, företagsstatus och språkväxling. Resten av demofunktionerna har tagits bort.",
+	"SSR-safe bootstrap": "SSR-säker bootstrap",
+	"Company signal state": "Företagsstatus med signals",
+	"Language switching": "Språkväxling",
+	"Company bootstrap state": "Företagets bootstrap-status",
+	"Company name": "Företagsnamn",
+	"Using environment fallback": "Använder environment-fallback",
+	"Company description is available from bootstrap state.": "Företagsbeskrivningen är tillgänglig från bootstrap-statusen.",
+	"About company": "Om företaget",
+	"Pages": "Sidor",
+	"Pages footer navigation": "Sidnavigering i sidfoten",
+	"Landing": "Startsida",
+	"All rights reserved.": "Alla rättigheter förbehållna.",
+	"Company image": "Företagsbild"
+}

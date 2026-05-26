@@ -1,0 +1,23 @@
+{
+	"Go to homepage": "Přejít na domovskou stránku",
+	"Switch to dark mode": "Přepnout do tmavého režimu",
+	"Switch to light mode": "Přepnout do světlého režimu",
+	"Open language menu": "Otevřít nabídku jazyků",
+	"Switch language to": "Přepnout jazyk na",
+	"Bootstrap, company, language": "Bootstrap, společnost, jazyk",
+	"Company profile is ready for bootstrap data.": "Profil společnosti je připraven pro bootstrap data.",
+	"This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.": "Tento starter nyní obsahuje pouze základní runtime části: bootstrap aplikace, stav společnosti a přepínání jazyků. Zbytek demonstračních funkcí byl odstraněn.",
+	"SSR-safe bootstrap": "Bootstrap bezpečný pro SSR",
+	"Company signal state": "Stav společnosti v signals",
+	"Language switching": "Přepínání jazyka",
+	"Company bootstrap state": "Bootstrap stav společnosti",
+	"Company name": "Název společnosti",
+	"Using environment fallback": "Používá se fallback z environment",
+	"Company description is available from bootstrap state.": "Popis společnosti je dostupný z bootstrap stavu.",
+	"About company": "O společnosti",
+	"Pages": "Stránky",
+	"Pages footer navigation": "Navigace stránek v patičce",
+	"Landing": "Úvod",
+	"All rights reserved.": "Všechna práva vyhrazena.",
+	"Company image": "Obrázek společnosti"
+}

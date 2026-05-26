@@ -1,0 +1,23 @@
+{
+	"Go to homepage": "Ir para a página inicial",
+	"Switch to dark mode": "Mudar para o modo escuro",
+	"Switch to light mode": "Mudar para o modo claro",
+	"Open language menu": "Abrir menu de idiomas",
+	"Switch language to": "Mudar idioma para",
+	"Bootstrap, company, language": "Bootstrap, empresa, idioma",
+	"Company profile is ready for bootstrap data.": "O perfil da empresa está pronto para os dados de bootstrap.",
+	"This starter now keeps only the core runtime pieces: app bootstrap, company state, and multilingual switching. The rest of the demo feature surface has been removed.": "Este starter agora mantém apenas as partes essenciais de runtime: bootstrap da aplicação, estado da empresa e mudança de idioma. O restante das funcionalidades de demonstração foi removido.",
+	"SSR-safe bootstrap": "Bootstrap compatível com SSR",
+	"Company signal state": "Estado da empresa com signals",
+	"Language switching": "Mudança de idioma",
+	"Company bootstrap state": "Estado bootstrap da empresa",
+	"Company name": "Nome da empresa",
+	"Using environment fallback": "Usando fallback do ambiente",
+	"Company description is available from bootstrap state.": "A descrição da empresa está disponível no estado bootstrap.",
+	"About company": "Sobre a empresa",
+	"Pages": "Páginas",
+	"Pages footer navigation": "Navegação de páginas no rodapé",
+	"Landing": "Início",
+	"All rights reserved.": "Todos os direitos reservados.",
+	"Company image": "Imagem da empresa"
+}
